@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Fatih 👋
+🚀💻 I am a software engineer with experience building desktop, web and mobile applications. I am passionate about back‐end development, software architecture, and secure coding. I have professional experience working with .NET, C# and SQL Technologies. I also have intermediate backgrounds in DevOps, Azure processes, pipeline completions, data managements, resource groups and deployment resources. Interested in devising a better problem‐solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
 <!--
 **fatihsoysal/fatihsoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
